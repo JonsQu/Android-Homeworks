@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Location Weather</string>
+    <string name="mapbox_access_token">pk.eyJ1Ijoiam9uc3F1IiwiYSI6ImNqc2Z3enp6ZTBoazEzeXFnb241MmF6OWwifQ.-XmDvpdj3riwtPqG5TaGmA</string>
+</resources>
